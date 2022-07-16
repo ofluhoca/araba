@@ -5,5 +5,7 @@ public class yeniProjemiz06 {
         System.out.println("Hello Ankara");
 
         System.out.println("Biz de basardik");
+
+        System.out.println("Yeniden tekrardan");
     }
 }
